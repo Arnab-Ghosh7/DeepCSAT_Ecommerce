@@ -68,7 +68,7 @@ DeepCSAT_Ecommerce/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/DeepCSAT_Ecommerce.git
+   https://github.com/Arnab-Ghosh7/DeepCSAT_Ecommerce
    cd DeepCSAT_Ecommerce
    ```
 
