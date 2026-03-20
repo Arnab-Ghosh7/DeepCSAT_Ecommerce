@@ -45,10 +45,7 @@ In modern e-commerce, anticipating customer dissatisfaction allows proactive res
 
 ## 🧠 How the Model Works
 
-1. **Categorical Features:** Inputs (like Channel Name, Shift, Category, Agent) are label-encoded using encoders fitted during training to ensure an exact mapping.
-2. **Text Processing:** Customer remarks are cleaned (stopwords/contractions removed) and vectorized via TF-IDF (extracting the top 200 bigram features).
-3. **Numerical Features:** Metrics such as Response Time and Item Price are log-transformed and scaled using `StandardScaler`.
-4. **Prediction:** The processed features are horizontally concatenated and passed through the 3-layer ANN, predicting the likelihood of each CSAT score from 1 (Very Dissatisfied) to 5 (Very Satisfied).
+
 
 ## 📂 Project Structure
 
