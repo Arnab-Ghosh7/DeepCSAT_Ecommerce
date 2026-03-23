@@ -13,7 +13,7 @@
 </div>
 
 <br>
-
+Predict Customer Satisfaction (CSAT) scores *before* the survey even arrives. DeepCSAT is an advanced deep learning web application built using a 3-layer Artificial Neural Network (ANN) to analyze customer interactions and predict their satisfaction levels in real-time.
 ---
 
 
