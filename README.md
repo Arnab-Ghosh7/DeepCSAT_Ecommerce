@@ -21,7 +21,6 @@ Predict Customer Satisfaction (CSAT) scores *before* the survey even arrives. De
 ## 📖 Overview
 
 In modern e-commerce, anticipating customer dissatisfaction allows proactive resolution. DeepCSAT takes various interaction parameters (such as the communication channel, issue category, customer remarks, response time, and agent details) and feeds them into a trained Deep Learning model to predict a CSAT score on a scale of 1 to 5.
-
 **Key Highlights:**
 - Trained on **85.9K** interaction records.
 - Employs a **3-Layer ANN** tuned via RandomizedSearchCV.
